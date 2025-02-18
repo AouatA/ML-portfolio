@@ -1,4 +1,4 @@
-### Machine Learning Portfolio ###
+# Machine Learning Portfolio #
 
 This repository showcases a collection of projects where I explore various machine learning and AI techniques. Each project represents my journey into solving real-world problems using data-driven approaches.
 ## What's Coming ##
@@ -12,4 +12,5 @@ Stay tuned for updates as I add new projects and improve this repository.
 If you have any questions or suggestions, feel free to reach out:
 
 Email: anton.aouat@gmail.com
+
 GitHub: @AouatA
